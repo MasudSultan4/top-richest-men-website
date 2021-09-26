@@ -13,19 +13,19 @@ const Worth = (props) => {
 
 
     return (
-        <div>
+        <div className="shadow p-3 mb-5 bg-body rounded">
             <h4>
-                <FontAwesomeIcon icon={faUsers} /> Risest-Man: {worth.length}
-            </h4>
-            <h4>Total-Worth: ${total}</h4>
+                <FontAwesomeIcon icon={faUsers} />  <strong>Risest-Man:</strong>  {worth.length}
+            </h4><hr />
+            <h4 ><strong>Total-Worth:</strong> ${total}</h4><hr />
             <p>
-            {
+                {
                     worth.map(man => {
                         return (
-                            <div className="d-flex align-items-center selectedActors mb-3 text-white">
+                            <div className="d-flex align-items-center selectedWorth mb-3 text-white">
 
-                                <img className="cart-img" src={man.img} alt="" />
-                                <h5>{man.name}</h5>
+                                <img className="worth-img" src={man.img} alt="" />
+                                <p className="mb-0">{man.name} ${man.Net_Worth}</p>
                             </div>)
                     })
                 }
