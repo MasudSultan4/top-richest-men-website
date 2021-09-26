@@ -1,0 +1,191 @@
+[
+  {
+    "RichestPosition": 1,
+    "name": "Jeff Bezos",
+    "Source_of_Wealth": "Founder of Amazon",
+    "Net_Worth": 1970000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2017/08/Jeff-Bezos-Net-Worth-1.webp",
+    "Country_of_Origin": "USA",
+    "Age": 56
+  },
+  {
+    "RichestPosition": 2,
+    "name": "Elon Musk",
+    "Source_of_Wealth": "Entrepreneur/Investor",
+    "Net_Worth": 1900000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/08/Elon-Musk-Net-Worth.jpg",
+    "Country_of_Origin": "South Africa",
+    "Age": 49
+  },
+  {
+    "RichestPosition": 3,
+    "name": "Bernard Arnault",
+    "Source_of_Wealth": "Entrepreneur",
+    "Net_Worth": 1770000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/08/Bernard-Arnault-Net-Worth.jpg",
+    "Country_of_Origin": "France",
+    "Age": 71
+  },
+  {
+    "RichestPosition": 4,
+    "name": "Mark Zuckerberg",
+    "Source_of_Wealth": "Founder of Facebook",
+    "Net_Worth": 1360000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2017/08/Mark-Zuckerberg-Net-Worth-1.webp",
+    "Country_of_Origin": "USA",
+    "Age": 36
+  },
+  {
+    "RichestPosition": 5,
+    "name": "Bill Gates",
+    "Source_of_Wealth": "Founder of Microsoft",
+    "Net_Worth": 1320000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2017/08/Bill-Gates-Net-Worth-1.webp",
+    "Country_of_Origin": "USA",
+    "Age": 64
+  },
+  {
+    "RichestPosition": 6,
+    "name": "Larry Page",
+    "Source_of_Wealth": "Entrepreneur",
+    "Net_Worth": 1230000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/08/Larry-Page-Net-Worth.jpg",
+    "Country_of_Origin": "USA",
+    "Age": 38
+  },
+  {
+    "RichestPosition": 7,
+    "name": "Sergey Brin",
+    "Source_of_Wealth": "Computer scentist",
+    "Net_Worth": 1190000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/08/Sergey-Brin-Net-Worth.jpg",
+    "Country_of_Origin": "USA",
+    "Age": 56
+  },
+  {
+    "RichestPosition": 8,
+    "name": "Larry Ellison",
+    "Source_of_Wealth": "Entrepreneur",
+    "Net_Worth": 1160000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2021/06/Larry-Ellison-Net-Worth.webp",
+    "Country_of_Origin": "USA",
+    "Age": 76
+  },
+  {
+    "RichestPosition": 9,
+    "name": "Warren Buffett",
+    "Source_of_Wealth": "Entrepreneur",
+    "Net_Worth": 1030000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2021/06/Richest-People-Warren-Buffett.webp",
+    "Country_of_Origin": "USA",
+    "Age": 90
+  },
+  {
+    "RichestPosition": 10,
+    "name": "Steve Ballme",
+    "Source_of_Wealth": "CEO of Microsoft",
+    "Net_Worth": 970000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2019/02/Steve-Ballmer-Net-Worth.jpg.webp",
+    "Country_of_Origin": "USA",
+    "Age": 64
+  },
+  {
+    "RichestPosition": 11,
+    "name": "Françoise Meyers",
+    "Source_of_Wealth": "Heiress to L'Oreal fortune",
+    "Net_Worth": 920000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2019/02/Francoise-Bettencourt-Net-Worth.jpg.webp",
+    "Country_of_Origin": "France",
+    "Age": 67
+  },
+  {
+    "RichestPosition": 12,
+    "name": "Mukesh Ambani",
+    "Source_of_Wealth": "Businessman ",
+    "Net_Worth": 870000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/08/Mukesh-Ambani-Net-Worth.webp",
+    "Country_of_Origin": "Indian ",
+    "Age": 68
+  },
+  {
+    "RichestPosition": 13,
+    "name": "Carlos Slim Helu",
+    "Source_of_Wealth": "Entrepreneur",
+    "Net_Worth": 790000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/08/Carlos-Slim-Helu-Net-Worth.jpg",
+    "Country_of_Origin": "Mexico",
+    "Age": 80
+  },
+  {
+    "RichestPosition": 14,
+    "name": "Amancio Ortega",
+    "Source_of_Wealth": "Businessman",
+    "Net_Worth": 780000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/12/Amancio-Ortega-Net-Worth.webp",
+    "Country_of_Origin": "Spain",
+    "Age": 56
+  },
+  {
+    "RichestPosition": 15,
+    "name": "Jim Walton",
+    "Source_of_Wealth": "Heir to Walmart Fortune",
+    "Net_Worth": 680000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2019/04/Jim-Walton-Net-Worth.jpg.webp",
+    "Country_of_Origin": "USA",
+    "Age": 72
+  },
+  {
+    "RichestPosition": 16,
+    "name": " Alice Walton",
+    "Source_of_Wealth": "Businessman",
+    "Net_Worth": 672000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/12/Alice-Walton-Net-Worth.webp",
+    "Country_of_Origin": "NewYork",
+    "Age": 80
+  },
+  {
+    "RichestPosition": 17,
+    "name": "Samuel Robson",
+    "Source_of_Wealth": "Heir to Walmart Fortune",
+    "Net_Worth": 670000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2019/03/Samuel-Robson-Walton-Net-Worth.jpg.webp",
+    "Country_of_Origin": "USA",
+    "Age": 76
+  },
+  {
+    "RichestPosition": 18,
+    "name": "Zhong Shanshan",
+    "Source_of_Wealth": "Entrepreneur",
+    "Net_Worth": 659000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2021/05/Zhong-Shanshan-Net-Worth.webp",
+    "Country_of_Origin": "China",
+    "Age": 66
+  },
+  {
+    "RichestPosition": 19,
+    "name": "Philip ",
+    "Source_of_Wealth": "Entrepreneur",
+    "Net_Worth": 613000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2019/02/Phil-Knight-Net-Worth.jpg.webp",
+    "Country_of_Origin": "USA",
+    "Age": 82
+  },
+  {
+    "RichestPosition": 20,
+    "name": "Michael",
+    "Source_of_Wealth": "Data Bloomberg",
+    "Net_Worth": 590000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2018/08/Michael-Bloomberg-Net-Worth.jpg",
+    "Country_of_Origin": "USA",
+    "Age": 79
+  },
+  {
+    "RichestPosition": 21,
+    "name": "MacKenzie",
+    "Source_of_Wealth": "Professional Novelist",
+    "Net_Worth": 575000,
+    "img": "https://cdn.wealthygorilla.com/wp-content/uploads/2019/09/Mackenzie-Bezos-Net-Worth.webp",
+    "Country_of_Origin": "USA",
+    "Age": 50
+  }
+]
